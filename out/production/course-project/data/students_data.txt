@@ -1,0 +1,1000 @@
+S001,Student 1,30,Biology,3.0;2.5;3.5;3.5;4.0
+S002,Student 2,20,Biology,2.5;3.5
+S003,Student 3,18,Chemistry,3.0;3.5;2.0;4.0;2.5
+S004,Student 4,23,Chemistry,3.0;3.5;4.0;3.0;2.5
+S005,Student 5,24,Mathematics,3.5;2.0;3.5;3.5;2.0
+S006,Student 6,25,Computer Science,2.5;3.5
+S007,Student 7,19,Physics,2.5;3.5
+S008,Student 8,27,Business,2.5;2.5;3.5;2.5
+S009,Student 9,21,Biology,3.5;4.0;2.5;4.0;4.0
+S010,Student 10,24,Mathematics,3.5;4.0
+S011,Student 11,28,Business,2.5;2.0
+S012,Student 12,26,Mathematics,2.0;2.0
+S013,Student 13,27,Mechanical Engineering,2.5;4.0;2.5;2.0
+S014,Student 14,18,Biology,3.0;4.0;3.5
+S015,Student 15,28,Business,2.0;2.0;3.5;3.0
+S016,Student 16,27,Biology,4.0;2.5;3.0;4.0
+S017,Student 17,26,Physics,3.0;2.5
+S018,Student 18,28,Chemistry,2.5;4.0;4.0;2.0
+S019,Student 19,22,Mechanical Engineering,4.0;2.0;2.0
+S020,Student 20,26,Mathematics,4.0;2.5;2.0;3.5
+S021,Student 21,20,Mathematics,3.0;2.0;2.5;3.5;3.0
+S022,Student 22,18,Business,2.5;2.0;3.0;3.5;2.5
+S023,Student 23,18,Business,2.0;3.0;2.0;3.5
+S024,Student 24,25,Mechanical Engineering,3.5;4.0;3.0;3.0
+S025,Student 25,18,Mechanical Engineering,3.0;2.5;3.5;3.5;2.0
+S026,Student 26,18,Psychology,2.5;2.0;3.5;2.5
+S027,Student 27,23,Biology,2.5;4.0;2.0;2.5;4.0
+S028,Student 28,30,Psychology,3.5;2.0;4.0;3.0;4.0
+S029,Student 29,30,Computer Science,2.5;2.0
+S030,Student 30,18,Psychology,2.5;4.0;3.5;3.0;2.0
+S031,Student 31,20,Business,2.0;4.0;2.5;3.5;4.0
+S032,Student 32,29,Computer Science,3.0;3.5;3.5;4.0
+S033,Student 33,20,Biology,2.0;2.5;3.0;3.0;4.0
+S034,Student 34,30,Biology,4.0;3.0;4.0
+S035,Student 35,24,Business,3.5;4.0
+S036,Student 36,19,Chemistry,3.5;2.5;3.5
+S037,Student 37,20,Mechanical Engineering,3.0;2.5;3.0;3.5;3.0
+S038,Student 38,29,Computer Science,2.5;4.0
+S039,Student 39,27,Mathematics,3.5;2.0;3.0;3.5;3.0
+S040,Student 40,30,Computer Science,3.5;3.5
+S041,Student 41,26,Mechanical Engineering,2.0;3.0
+S042,Student 42,27,Mechanical Engineering,3.0;4.0;3.0;4.0
+S043,Student 43,30,Mathematics,3.0;2.5
+S044,Student 44,19,Mathematics,3.0;4.0;3.0;2.0;2.5
+S045,Student 45,20,Psychology,3.5;3.0;2.5
+S046,Student 46,28,Chemistry,3.5;2.5;3.5;2.5;3.0
+S047,Student 47,20,Mechanical Engineering,2.0;2.0;3.5
+S048,Student 48,28,Chemistry,4.0;4.0;2.5
+S049,Student 49,27,Chemistry,2.5;3.0
+S050,Student 50,24,Mathematics,4.0;2.0;3.0;2.0;2.5
+S051,Student 51,26,Business,3.0;2.0;2.0
+S052,Student 52,25,Chemistry,3.5;2.0;2.5;3.5;3.5
+S053,Student 53,29,Mechanical Engineering,2.5;2.0
+S054,Student 54,25,Computer Science,2.0;4.0;2.5;3.5;2.5
+S055,Student 55,27,Physics,2.5;2.0;3.5;3.5;2.0
+S056,Student 56,25,Mechanical Engineering,2.5;2.5;2.0;3.0;3.5
+S057,Student 57,19,Biology,3.5;3.5;4.0;3.0
+S058,Student 58,21,Biology,3.5;4.0;4.0;4.0
+S059,Student 59,30,Mathematics,3.5;3.0;4.0;4.0
+S060,Student 60,20,Mechanical Engineering,2.0;2.5;2.5
+S061,Student 61,19,Mathematics,3.5;3.0;3.5
+S062,Student 62,30,Business,3.0;3.5;2.0;3.5
+S063,Student 63,18,Mechanical Engineering,3.0;3.5
+S064,Student 64,30,Mechanical Engineering,3.5;2.0;2.0;2.5
+S065,Student 65,23,Computer Science,3.0;3.0;4.0;2.0;4.0
+S066,Student 66,24,Biology,3.5;2.5;2.0;4.0
+S067,Student 67,25,Mathematics,2.0;4.0;3.5;2.0
+S068,Student 68,27,Mechanical Engineering,3.5;2.0
+S069,Student 69,29,Mechanical Engineering,3.5;3.0;2.0;4.0
+S070,Student 70,26,Physics,4.0;2.0;2.5;4.0
+S071,Student 71,18,Psychology,2.0;2.5
+S072,Student 72,23,Computer Science,2.0;3.0;3.5;3.0
+S073,Student 73,21,Mechanical Engineering,2.5;3.5;4.0
+S074,Student 74,24,Biology,4.0;3.5
+S075,Student 75,25,Chemistry,3.5;2.5;3.0;4.0
+S076,Student 76,19,Mechanical Engineering,2.5;2.0
+S077,Student 77,28,Psychology,4.0;4.0
+S078,Student 78,25,Psychology,2.5;2.0;2.0;3.0;3.0
+S079,Student 79,23,Mathematics,2.5;4.0;2.5;4.0
+S080,Student 80,30,Mechanical Engineering,4.0;2.0;4.0
+S081,Student 81,29,Mathematics,4.0;3.5
+S082,Student 82,25,Business,4.0;2.0
+S083,Student 83,21,Mechanical Engineering,2.5;2.5;3.5;2.5
+S084,Student 84,30,Mechanical Engineering,2.5;2.5
+S085,Student 85,21,Psychology,3.5;3.0;4.0
+S086,Student 86,27,Mathematics,3.5;2.0;3.5;4.0
+S087,Student 87,25,Biology,2.5;2.0
+S088,Student 88,27,Psychology,3.0;2.5;4.0
+S089,Student 89,22,Business,3.0;3.0;4.0;4.0;3.5
+S090,Student 90,21,Chemistry,2.0;2.0;3.0;4.0
+S091,Student 91,22,Computer Science,2.5;2.5
+S092,Student 92,20,Mechanical Engineering,3.0;2.5;2.0
+S093,Student 93,19,Business,3.5;3.0;3.0
+S094,Student 94,21,Psychology,3.5;4.0;2.5
+S095,Student 95,18,Biology,3.5;3.5;2.0;3.5
+S096,Student 96,29,Computer Science,2.0;3.0;3.5
+S097,Student 97,25,Computer Science,3.0;3.5
+S098,Student 98,28,Mathematics,2.0;2.5;2.0;2.5;3.5
+S099,Student 99,22,Chemistry,4.0;3.5;4.0
+S100,Student 100,30,Mechanical Engineering,2.5;2.0;4.0;2.5
+S101,Student 101,24,Chemistry,2.0;2.5;4.0;3.0;4.0
+S102,Student 102,29,Biology,3.5;2.5;2.5;2.0
+S103,Student 103,19,Mechanical Engineering,2.5;4.0
+S104,Student 104,25,Mechanical Engineering,4.0;4.0
+S105,Student 105,20,Computer Science,3.5;2.5
+S106,Student 106,18,Biology,2.0;2.0;3.5;2.0;3.5
+S107,Student 107,29,Biology,2.0;2.5;2.5;3.0;2.5
+S108,Student 108,30,Psychology,2.0;3.0;4.0;2.5;2.5
+S109,Student 109,29,Mathematics,3.5;4.0;3.0
+S110,Student 110,22,Mechanical Engineering,2.5;3.5;2.5;3.5;3.0
+S111,Student 111,24,Mathematics,4.0;2.5;3.5;3.5;2.0
+S112,Student 112,24,Business,3.0;3.0;2.0
+S113,Student 113,29,Mathematics,4.0;3.5;2.0;2.5;3.0
+S114,Student 114,24,Mechanical Engineering,4.0;4.0;3.0;2.0;4.0
+S115,Student 115,23,Psychology,4.0;2.5
+S116,Student 116,20,Psychology,2.5;3.5;3.5
+S117,Student 117,18,Physics,3.0;2.5;2.0;4.0;4.0
+S118,Student 118,25,Mechanical Engineering,3.0;2.0;3.0;2.5;2.0
+S119,Student 119,21,Business,3.5;3.0;4.0;2.5;4.0
+S120,Student 120,21,Psychology,2.0;2.5;3.5;3.5;3.0
+S121,Student 121,22,Physics,4.0;4.0;3.5
+S122,Student 122,18,Computer Science,2.0;4.0;3.0
+S123,Student 123,26,Mathematics,3.0;2.0;3.5;4.0;3.0
+S124,Student 124,24,Computer Science,2.0;3.0;2.5;2.5
+S125,Student 125,20,Mathematics,2.0;3.0;3.5;4.0
+S126,Student 126,29,Business,3.0;3.5;2.0
+S127,Student 127,22,Psychology,2.5;4.0;2.5;3.0
+S128,Student 128,24,Chemistry,4.0;2.5;3.5
+S129,Student 129,24,Chemistry,2.0;4.0;2.5
+S130,Student 130,19,Chemistry,3.0;4.0
+S131,Student 131,30,Business,2.5;2.0
+S132,Student 132,18,Physics,2.5;3.5;3.0;3.0;3.0
+S133,Student 133,25,Physics,3.5;2.0;3.5
+S134,Student 134,21,Physics,2.5;4.0;4.0;3.0
+S135,Student 135,22,Psychology,4.0;4.0;2.5
+S136,Student 136,22,Chemistry,2.0;2.5;2.0;2.0;3.5
+S137,Student 137,18,Mechanical Engineering,4.0;3.5
+S138,Student 138,30,Psychology,2.5;4.0
+S139,Student 139,23,Physics,2.0;2.0;3.5;3.0;3.5
+S140,Student 140,20,Physics,2.5;4.0;4.0;3.0
+S141,Student 141,20,Business,4.0;2.0;4.0;4.0
+S142,Student 142,20,Physics,2.0;3.0;2.5
+S143,Student 143,25,Computer Science,2.5;3.5;4.0
+S144,Student 144,18,Mathematics,2.5;4.0;2.0;3.0;2.0
+S145,Student 145,30,Chemistry,4.0;2.5;2.0;4.0
+S146,Student 146,29,Biology,4.0;4.0
+S147,Student 147,22,Business,2.5;2.5;3.5;4.0
+S148,Student 148,22,Chemistry,3.5;3.5;4.0;2.5;2.5
+S149,Student 149,26,Computer Science,2.0;2.5;3.0;3.5;4.0
+S150,Student 150,30,Business,3.5;2.5
+S151,Student 151,29,Physics,2.5;2.5
+S152,Student 152,23,Biology,3.0;2.5;3.5;2.0;2.0
+S153,Student 153,24,Computer Science,4.0;3.5;2.0;3.5;2.5
+S154,Student 154,23,Mathematics,2.5;4.0
+S155,Student 155,29,Physics,4.0;2.5;2.5;2.5
+S156,Student 156,24,Biology,4.0;2.5;3.0;4.0
+S157,Student 157,28,Computer Science,4.0;4.0;2.0;4.0
+S158,Student 158,20,Mathematics,3.5;3.5;4.0
+S159,Student 159,22,Computer Science,2.0;3.0;3.0;3.5
+S160,Student 160,26,Physics,4.0;2.5;3.0;2.0
+S161,Student 161,19,Mechanical Engineering,3.5;2.5;2.0
+S162,Student 162,18,Computer Science,3.5;2.5;2.5
+S163,Student 163,18,Chemistry,2.0;4.0
+S164,Student 164,20,Biology,3.5;3.5;3.0;3.5
+S165,Student 165,28,Chemistry,3.0;3.0;3.5;2.0;3.0
+S166,Student 166,19,Business,2.5;4.0;4.0;4.0;3.0
+S167,Student 167,20,Chemistry,4.0;3.0;4.0
+S168,Student 168,24,Psychology,4.0;4.0;3.5;3.0;2.5
+S169,Student 169,22,Mathematics,4.0;4.0;3.0
+S170,Student 170,19,Chemistry,3.5;3.5;4.0
+S171,Student 171,29,Computer Science,4.0;2.0;2.0;2.5;3.5
+S172,Student 172,18,Physics,4.0;3.5
+S173,Student 173,27,Business,3.0;3.5;3.5
+S174,Student 174,22,Psychology,3.5;3.5;3.0
+S175,Student 175,18,Psychology,3.0;2.5;4.0;2.0
+S176,Student 176,30,Physics,3.5;2.5;2.0;4.0;4.0
+S177,Student 177,28,Psychology,3.5;3.5;4.0
+S178,Student 178,28,Psychology,2.0;2.0;4.0;2.0;3.5
+S179,Student 179,20,Physics,3.5;3.5;2.0;2.5
+S180,Student 180,19,Physics,2.0;2.0;3.0;2.0
+S181,Student 181,28,Mechanical Engineering,2.5;3.5;2.5;2.5;3.0
+S182,Student 182,18,Chemistry,3.5;2.5;4.0
+S183,Student 183,25,Biology,3.0;3.0;2.5;2.5
+S184,Student 184,20,Computer Science,3.0;3.0;2.5;3.5;3.5
+S185,Student 185,26,Mechanical Engineering,4.0;2.5
+S186,Student 186,18,Biology,2.0;4.0;4.0;3.5;3.5
+S187,Student 187,20,Physics,2.5;3.0;4.0;4.0
+S188,Student 188,28,Psychology,2.0;3.0;4.0;3.0;3.0
+S189,Student 189,29,Mechanical Engineering,3.0;3.0;2.0;4.0
+S190,Student 190,28,Biology,3.0;2.0;2.5;2.0
+S191,Student 191,26,Biology,2.0;4.0;2.0;2.5
+S192,Student 192,23,Mathematics,3.5;4.0;4.0;3.0;4.0
+S193,Student 193,26,Physics,4.0;3.5;4.0;3.0;3.5
+S194,Student 194,22,Computer Science,2.0;2.5;3.0
+S195,Student 195,24,Physics,2.0;4.0
+S196,Student 196,21,Computer Science,2.0;2.5;2.0
+S197,Student 197,30,Psychology,4.0;2.0;3.0;4.0;4.0
+S198,Student 198,23,Mechanical Engineering,3.0;3.0;3.0;2.0
+S199,Student 199,24,Mechanical Engineering,3.0;3.5
+S200,Student 200,22,Mathematics,2.0;2.5;2.0;2.0
+S201,Student 201,29,Physics,2.5;4.0;3.5;3.0;2.5
+S202,Student 202,27,Business,2.0;2.0;3.0;4.0
+S203,Student 203,22,Physics,2.0;3.0;4.0;3.5
+S204,Student 204,21,Business,2.5;2.5;3.0;4.0;4.0
+S205,Student 205,21,Computer Science,4.0;3.0;4.0;2.0;4.0
+S206,Student 206,22,Mechanical Engineering,2.5;3.5;2.5
+S207,Student 207,25,Computer Science,4.0;3.0;2.5
+S208,Student 208,20,Biology,3.0;3.0;3.5
+S209,Student 209,21,Business,3.0;2.5;2.0
+S210,Student 210,25,Mechanical Engineering,3.5;3.5;3.5;2.5;3.0
+S211,Student 211,22,Psychology,2.0;3.5;2.5;2.0
+S212,Student 212,30,Chemistry,2.5;3.5
+S213,Student 213,25,Business,4.0;4.0;4.0;4.0;3.5
+S214,Student 214,21,Computer Science,4.0;2.0;4.0
+S215,Student 215,18,Psychology,3.5;3.0;4.0;3.5;2.5
+S216,Student 216,22,Computer Science,4.0;2.5;2.5;3.5
+S217,Student 217,30,Mechanical Engineering,2.0;4.0
+S218,Student 218,21,Computer Science,2.0;4.0;3.0
+S219,Student 219,28,Psychology,3.0;3.0;3.5
+S220,Student 220,19,Business,3.0;3.5;3.0;3.5
+S221,Student 221,27,Mechanical Engineering,3.0;2.5
+S222,Student 222,25,Biology,4.0;4.0;2.5;4.0;3.0
+S223,Student 223,18,Mechanical Engineering,3.5;3.5;2.5;2.5;3.5
+S224,Student 224,19,Physics,3.5;2.5
+S225,Student 225,18,Mechanical Engineering,2.0;2.5;3.5
+S226,Student 226,28,Mathematics,4.0;2.0;2.5;2.0
+S227,Student 227,21,Biology,3.5;2.0;3.0
+S228,Student 228,21,Business,3.5;2.0;3.5;2.5
+S229,Student 229,20,Psychology,3.5;3.0;3.0;4.0
+S230,Student 230,23,Mechanical Engineering,4.0;4.0;3.5
+S231,Student 231,21,Psychology,3.0;3.5;2.5;2.5
+S232,Student 232,25,Biology,2.0;3.0;4.0;2.5;2.5
+S233,Student 233,22,Mathematics,2.0;3.5;3.5;4.0;4.0
+S234,Student 234,27,Biology,2.5;4.0;4.0
+S235,Student 235,30,Physics,2.5;4.0;2.0;2.0
+S236,Student 236,24,Chemistry,3.0;2.0;2.0;2.0;4.0
+S237,Student 237,30,Mathematics,3.5;2.5;2.0;3.5;3.5
+S238,Student 238,24,Psychology,2.5;3.0;3.5
+S239,Student 239,28,Mathematics,3.5;3.0;3.0;4.0
+S240,Student 240,19,Mathematics,4.0;4.0;2.0
+S241,Student 241,26,Mechanical Engineering,2.0;3.0;3.0;4.0
+S242,Student 242,26,Psychology,4.0;2.0
+S243,Student 243,30,Psychology,2.0;4.0
+S244,Student 244,22,Biology,3.0;2.5;2.5;3.0
+S245,Student 245,28,Psychology,2.0;3.0;3.0;2.5
+S246,Student 246,18,Physics,3.5;4.0;2.5;3.0;3.0
+S247,Student 247,22,Biology,2.5;2.0
+S248,Student 248,23,Chemistry,2.0;3.5;3.0;2.5
+S249,Student 249,20,Chemistry,4.0;3.0;2.0
+S250,Student 250,25,Biology,2.5;2.5;3.5;4.0
+S251,Student 251,22,Biology,3.0;3.5;3.0;4.0
+S252,Student 252,26,Computer Science,3.0;3.5
+S253,Student 253,23,Biology,2.5;3.5;3.0;2.5;3.5
+S254,Student 254,30,Biology,2.5;4.0
+S255,Student 255,26,Business,2.5;3.5;4.0;3.0
+S256,Student 256,27,Business,3.5;4.0
+S257,Student 257,28,Business,2.5;4.0;3.0;2.0
+S258,Student 258,29,Mechanical Engineering,3.0;2.5;4.0;3.0
+S259,Student 259,21,Mechanical Engineering,3.5;3.5;4.0;3.0;2.0
+S260,Student 260,23,Business,3.0;3.5;4.0;2.5
+S261,Student 261,24,Chemistry,3.0;3.0
+S262,Student 262,23,Mathematics,2.5;3.5;3.5;2.5
+S263,Student 263,24,Mechanical Engineering,4.0;4.0;3.5
+S264,Student 264,28,Computer Science,2.0;2.0;3.0;2.5
+S265,Student 265,21,Biology,3.0;3.5;2.5;2.5;4.0
+S266,Student 266,28,Mathematics,2.0;3.5;2.5
+S267,Student 267,19,Biology,3.0;3.0;2.5
+S268,Student 268,21,Computer Science,2.5;4.0;2.0;2.0
+S269,Student 269,21,Biology,3.0;2.0;4.0
+S270,Student 270,21,Psychology,2.5;3.0;3.5;3.0;4.0
+S271,Student 271,24,Mechanical Engineering,3.5;3.0;3.0
+S272,Student 272,27,Biology,3.5;3.0;2.5;4.0
+S273,Student 273,18,Computer Science,4.0;3.5
+S274,Student 274,23,Business,3.0;3.5
+S275,Student 275,23,Chemistry,2.5;3.0
+S276,Student 276,18,Computer Science,3.0;2.5;2.5
+S277,Student 277,19,Psychology,3.0;3.5;4.0;3.0
+S278,Student 278,24,Mathematics,3.5;2.5;4.0;2.5
+S279,Student 279,24,Biology,2.5;3.0
+S280,Student 280,29,Chemistry,2.5;4.0;2.5;3.5;3.5
+S281,Student 281,30,Biology,2.0;4.0
+S282,Student 282,20,Mechanical Engineering,3.5;3.0;2.0;3.5;3.5
+S283,Student 283,22,Biology,4.0;2.5;2.5;4.0;3.0
+S284,Student 284,27,Business,3.5;3.5;2.5;3.0;3.5
+S285,Student 285,27,Business,2.0;3.5;2.5;4.0;3.5
+S286,Student 286,25,Physics,3.5;3.0;3.0;4.0
+S287,Student 287,23,Physics,3.0;2.0;2.0;3.5;3.0
+S288,Student 288,19,Physics,2.5;3.0;3.5;2.5;3.5
+S289,Student 289,19,Computer Science,3.5;2.5;3.0;2.0;3.5
+S290,Student 290,26,Psychology,3.5;2.5;3.0
+S291,Student 291,27,Computer Science,2.5;2.0
+S292,Student 292,24,Chemistry,3.5;3.0
+S293,Student 293,27,Physics,2.0;3.0;3.0
+S294,Student 294,20,Biology,2.0;2.0;2.5;2.5
+S295,Student 295,20,Chemistry,2.0;3.0;2.5;2.0
+S296,Student 296,20,Mathematics,3.5;4.0
+S297,Student 297,28,Mathematics,3.5;3.5;2.5;3.5;2.5
+S298,Student 298,27,Biology,3.0;2.0;4.0;4.0
+S299,Student 299,20,Chemistry,4.0;2.0
+S300,Student 300,24,Mechanical Engineering,3.0;2.5;3.0
+S301,Student 301,26,Chemistry,2.0;3.5;2.0;2.5
+S302,Student 302,28,Physics,4.0;3.5;4.0
+S303,Student 303,26,Business,3.0;3.5
+S304,Student 304,20,Psychology,2.5;4.0;3.5
+S305,Student 305,25,Chemistry,2.5;3.0;3.0;3.5
+S306,Student 306,30,Biology,3.0;2.5;3.5;3.5;2.0
+S307,Student 307,23,Mechanical Engineering,2.5;2.0
+S308,Student 308,28,Mathematics,2.0;3.5;2.0;3.0;3.0
+S309,Student 309,29,Biology,4.0;2.0;2.0;2.5
+S310,Student 310,29,Mathematics,2.5;2.5;4.0;4.0;2.5
+S311,Student 311,18,Mathematics,2.0;3.5;4.0;4.0
+S312,Student 312,28,Chemistry,3.0;4.0
+S313,Student 313,21,Business,2.0;3.0
+S314,Student 314,28,Psychology,3.5;3.5;3.0
+S315,Student 315,20,Psychology,2.0;3.0;3.5;2.5
+S316,Student 316,24,Mechanical Engineering,2.5;2.5
+S317,Student 317,28,Mathematics,3.5;3.5;3.0;3.0
+S318,Student 318,27,Biology,3.5;2.5;2.0
+S319,Student 319,22,Physics,2.5;4.0;3.0;4.0
+S320,Student 320,26,Psychology,2.5;4.0;2.0;4.0;2.0
+S321,Student 321,24,Psychology,2.0;3.5
+S322,Student 322,22,Business,4.0;2.0;2.5
+S323,Student 323,22,Computer Science,2.5;2.5
+S324,Student 324,21,Psychology,2.5;2.5;3.5;3.0
+S325,Student 325,24,Mathematics,3.0;2.5;3.0;2.5;2.5
+S326,Student 326,23,Mathematics,4.0;4.0
+S327,Student 327,21,Business,4.0;3.0;4.0
+S328,Student 328,26,Mechanical Engineering,2.0;2.5;3.5;2.5
+S329,Student 329,19,Physics,2.5;4.0;3.0;3.0
+S330,Student 330,23,Business,3.0;3.5
+S331,Student 331,29,Chemistry,3.0;2.5;2.0;3.0
+S332,Student 332,27,Mechanical Engineering,4.0;4.0;4.0
+S333,Student 333,28,Physics,3.0;2.0;2.5;2.5;4.0
+S334,Student 334,27,Psychology,3.5;2.0;4.0
+S335,Student 335,19,Business,2.0;3.5;4.0
+S336,Student 336,24,Psychology,3.0;2.0;4.0;2.5
+S337,Student 337,29,Chemistry,4.0;2.0;4.0;3.5
+S338,Student 338,29,Psychology,3.0;4.0;3.0
+S339,Student 339,29,Psychology,3.5;2.5;2.0;2.0
+S340,Student 340,27,Chemistry,2.0;2.5
+S341,Student 341,28,Mathematics,3.5;2.5;4.0;4.0;3.5
+S342,Student 342,24,Psychology,3.5;2.0
+S343,Student 343,27,Business,4.0;3.0;3.5;2.5
+S344,Student 344,25,Mathematics,2.0;3.5;3.0;2.0
+S345,Student 345,24,Computer Science,4.0;3.0;2.0;2.0;4.0
+S346,Student 346,21,Computer Science,3.5;2.5
+S347,Student 347,21,Psychology,3.0;3.5
+S348,Student 348,18,Mechanical Engineering,4.0;3.5;3.0;2.0;4.0
+S349,Student 349,18,Physics,2.0;3.5;2.5;2.5
+S350,Student 350,24,Mathematics,3.5;3.5;3.5;2.5
+S351,Student 351,26,Mechanical Engineering,4.0;4.0;3.0
+S352,Student 352,20,Computer Science,4.0;4.0;3.0;4.0;2.5
+S353,Student 353,27,Mathematics,3.0;3.5
+S354,Student 354,25,Mathematics,2.0;3.0;2.5;2.0
+S355,Student 355,28,Physics,2.0;3.5
+S356,Student 356,29,Chemistry,2.5;4.0;4.0;3.0
+S357,Student 357,19,Biology,4.0;4.0;4.0;2.5;3.5
+S358,Student 358,22,Physics,3.5;2.5;3.5
+S359,Student 359,21,Physics,4.0;2.0;4.0;3.5;3.0
+S360,Student 360,22,Physics,4.0;2.0
+S361,Student 361,30,Mathematics,2.5;4.0
+S362,Student 362,18,Chemistry,2.0;2.0
+S363,Student 363,28,Psychology,2.5;2.5;2.5
+S364,Student 364,25,Computer Science,3.5;2.0;3.0;4.0
+S365,Student 365,27,Computer Science,3.5;4.0;3.0
+S366,Student 366,23,Biology,4.0;2.0;2.0;3.0
+S367,Student 367,18,Biology,2.0;4.0;3.0;2.5;2.5
+S368,Student 368,18,Business,2.0;2.0;3.0
+S369,Student 369,18,Physics,4.0;4.0;3.5;2.5
+S370,Student 370,28,Mathematics,4.0;3.5
+S371,Student 371,24,Mathematics,3.0;2.5;3.5
+S372,Student 372,30,Computer Science,3.5;3.0;3.0;2.0;2.0
+S373,Student 373,19,Psychology,3.0;2.5;2.5;3.5
+S374,Student 374,29,Computer Science,3.5;2.5;3.5;2.0
+S375,Student 375,21,Business,2.0;3.5;4.0
+S376,Student 376,28,Chemistry,2.5;2.5;3.0;2.5
+S377,Student 377,25,Business,2.5;4.0
+S378,Student 378,19,Business,2.5;3.5;4.0;2.5;3.0
+S379,Student 379,23,Business,4.0;2.0;3.5
+S380,Student 380,20,Mathematics,2.5;3.0
+S381,Student 381,27,Psychology,2.0;3.0;3.5
+S382,Student 382,23,Psychology,3.0;2.5
+S383,Student 383,20,Chemistry,3.5;3.0
+S384,Student 384,23,Physics,3.5;2.5;2.5
+S385,Student 385,30,Mechanical Engineering,2.0;2.0
+S386,Student 386,23,Computer Science,3.0;4.0;3.0
+S387,Student 387,21,Psychology,3.0;3.5;4.0
+S388,Student 388,25,Chemistry,3.0;2.5;3.0
+S389,Student 389,25,Business,2.5;2.0;2.0;3.0;3.5
+S390,Student 390,30,Psychology,2.0;3.0;2.0;2.5;2.5
+S391,Student 391,22,Chemistry,2.5;2.5
+S392,Student 392,25,Physics,2.5;2.0;2.5;3.0
+S393,Student 393,24,Business,2.5;3.0
+S394,Student 394,26,Biology,2.5;3.5
+S395,Student 395,27,Biology,2.5;3.5
+S396,Student 396,26,Mathematics,2.0;3.5;3.0;2.5;4.0
+S397,Student 397,28,Business,4.0;4.0;3.0
+S398,Student 398,24,Business,2.0;2.5;3.5
+S399,Student 399,30,Psychology,3.5;2.5;2.0;4.0;3.5
+S400,Student 400,20,Biology,4.0;2.0;3.0;2.0;2.5
+S401,Student 401,25,Chemistry,3.0;3.0;2.0;2.0
+S402,Student 402,21,Physics,2.5;3.5;3.5
+S403,Student 403,28,Business,3.0;4.0
+S404,Student 404,22,Physics,2.0;2.0;2.5;4.0
+S405,Student 405,21,Chemistry,4.0;2.5;3.5;3.5
+S406,Student 406,24,Chemistry,4.0;4.0;2.0
+S407,Student 407,30,Business,3.5;2.0;3.5
+S408,Student 408,19,Mechanical Engineering,4.0;4.0;2.5;3.5
+S409,Student 409,27,Business,2.5;3.0;2.5;3.0;4.0
+S410,Student 410,24,Psychology,2.0;2.5
+S411,Student 411,18,Chemistry,3.0;4.0;2.0;3.5
+S412,Student 412,29,Computer Science,3.5;3.0;4.0;2.0;3.5
+S413,Student 413,19,Mechanical Engineering,3.0;2.5;2.0;2.5;3.5
+S414,Student 414,22,Biology,4.0;2.0;3.0
+S415,Student 415,26,Psychology,2.5;4.0;2.0;3.5
+S416,Student 416,28,Computer Science,3.0;3.0
+S417,Student 417,27,Psychology,2.0;3.5;2.0;2.5;4.0
+S418,Student 418,23,Mechanical Engineering,2.0;3.0;4.0
+S419,Student 419,30,Psychology,3.0;2.0;2.5;3.0;3.5
+S420,Student 420,26,Psychology,2.0;4.0;4.0;3.5
+S421,Student 421,30,Mathematics,3.5;2.5;4.0;2.5;2.0
+S422,Student 422,28,Biology,4.0;4.0;3.0;3.0
+S423,Student 423,21,Psychology,3.5;3.5
+S424,Student 424,29,Mechanical Engineering,2.5;2.5
+S425,Student 425,22,Chemistry,2.0;2.5;2.5
+S426,Student 426,28,Mathematics,2.5;3.5
+S427,Student 427,30,Biology,4.0;3.0;3.0;2.0;4.0
+S428,Student 428,22,Mathematics,3.5;2.5
+S429,Student 429,30,Mechanical Engineering,3.0;2.0
+S430,Student 430,21,Biology,2.5;2.0;3.5
+S431,Student 431,21,Business,4.0;4.0;2.0;2.0;3.0
+S432,Student 432,24,Computer Science,4.0;3.0;3.5;2.0
+S433,Student 433,26,Mechanical Engineering,4.0;2.5;4.0
+S434,Student 434,28,Chemistry,3.0;4.0;2.5
+S435,Student 435,22,Psychology,2.0;3.0;2.0;3.5;2.5
+S436,Student 436,25,Mathematics,2.5;2.5
+S437,Student 437,20,Computer Science,2.0;4.0;3.0;3.0
+S438,Student 438,18,Computer Science,4.0;2.5
+S439,Student 439,27,Chemistry,4.0;3.0;4.0;4.0;3.0
+S440,Student 440,26,Business,3.0;2.5;3.5
+S441,Student 441,19,Business,2.5;2.5;2.0
+S442,Student 442,27,Mechanical Engineering,2.0;2.5
+S443,Student 443,29,Computer Science,2.5;3.5;4.0
+S444,Student 444,30,Physics,3.0;3.5;4.0;2.0
+S445,Student 445,24,Mathematics,2.0;3.5;3.0;2.0;4.0
+S446,Student 446,30,Chemistry,3.5;3.0
+S447,Student 447,18,Computer Science,3.0;2.5
+S448,Student 448,29,Mechanical Engineering,3.0;2.0
+S449,Student 449,22,Mathematics,3.0;3.0;2.5;3.0
+S450,Student 450,23,Mathematics,2.5;2.0;2.5;2.0
+S451,Student 451,27,Computer Science,3.0;3.5;2.0;2.5
+S452,Student 452,23,Physics,2.5;3.5;2.5;2.0
+S453,Student 453,18,Mathematics,3.0;2.5;3.0;3.5
+S454,Student 454,20,Mathematics,3.0;2.0
+S455,Student 455,25,Chemistry,3.0;3.0;2.0
+S456,Student 456,21,Business,3.0;3.5
+S457,Student 457,18,Chemistry,3.0;4.0
+S458,Student 458,23,Biology,4.0;4.0;3.0;3.5
+S459,Student 459,26,Computer Science,2.5;2.0;3.0;3.0
+S460,Student 460,23,Psychology,2.5;2.5;4.0;3.0
+S461,Student 461,21,Physics,3.5;4.0;3.0;2.0
+S462,Student 462,24,Computer Science,3.0;4.0
+S463,Student 463,26,Chemistry,3.0;2.0;2.5
+S464,Student 464,30,Computer Science,3.5;3.5;4.0;2.0
+S465,Student 465,30,Computer Science,3.5;2.5;4.0;2.5;4.0
+S466,Student 466,18,Physics,2.0;3.5;2.0
+S467,Student 467,22,Psychology,2.0;3.5;4.0;4.0;3.0
+S468,Student 468,30,Computer Science,2.5;3.5;2.5;3.5
+S469,Student 469,26,Computer Science,2.0;4.0;2.5;2.5;2.5
+S470,Student 470,27,Chemistry,2.5;2.0;2.0;2.5;4.0
+S471,Student 471,20,Psychology,2.5;4.0
+S472,Student 472,28,Psychology,4.0;3.0;3.0;4.0;3.0
+S473,Student 473,18,Psychology,3.5;3.0
+S474,Student 474,18,Psychology,3.0;3.0;3.0;2.5
+S475,Student 475,22,Biology,3.0;2.5;3.0
+S476,Student 476,28,Chemistry,2.0;2.5;3.5;2.0;4.0
+S477,Student 477,22,Chemistry,3.5;4.0
+S478,Student 478,21,Mechanical Engineering,4.0;2.5;3.0
+S479,Student 479,18,Mechanical Engineering,2.5;4.0;3.0;3.5
+S480,Student 480,29,Chemistry,3.0;3.5
+S481,Student 481,25,Psychology,4.0;3.5;2.0;3.0
+S482,Student 482,24,Mechanical Engineering,3.0;3.5
+S483,Student 483,24,Physics,3.0;3.5
+S484,Student 484,28,Business,2.5;2.5
+S485,Student 485,27,Mechanical Engineering,2.5;4.0
+S486,Student 486,26,Mathematics,2.5;4.0;3.5;2.5;2.5
+S487,Student 487,28,Mechanical Engineering,4.0;3.5;4.0;2.0;3.0
+S488,Student 488,19,Biology,2.0;2.0;4.0;2.5
+S489,Student 489,23,Computer Science,2.5;2.0
+S490,Student 490,29,Mathematics,2.0;2.5;3.5;2.0
+S491,Student 491,25,Biology,2.0;2.0;3.0;3.0
+S492,Student 492,21,Computer Science,3.0;3.0;2.0;3.5
+S493,Student 493,26,Business,2.5;2.0;3.5;2.0
+S494,Student 494,26,Biology,2.0;4.0
+S495,Student 495,20,Biology,3.5;2.0;2.0;3.5;3.5
+S496,Student 496,20,Biology,2.0;3.5;3.0;3.0;2.0
+S497,Student 497,19,Psychology,3.5;4.0;2.0;3.5
+S498,Student 498,28,Business,2.5;3.5;4.0;4.0
+S499,Student 499,23,Computer Science,3.0;2.0;2.5;4.0
+S500,Student 500,20,Psychology,2.0;3.0
+S501,Student 501,24,Mechanical Engineering,2.5;2.0;2.0;2.0;3.0
+S502,Student 502,22,Mechanical Engineering,2.0;2.5;3.5;4.0;3.5
+S503,Student 503,25,Chemistry,4.0;2.5;2.0
+S504,Student 504,24,Physics,2.5;2.0;4.0;3.0;2.5
+S505,Student 505,29,Biology,3.5;4.0
+S506,Student 506,25,Business,2.0;3.5;3.0;4.0
+S507,Student 507,22,Mathematics,3.0;3.5
+S508,Student 508,24,Mechanical Engineering,2.5;4.0;2.0
+S509,Student 509,18,Biology,2.0;2.0;3.5;3.5;4.0
+S510,Student 510,25,Physics,2.5;3.5;2.0;2.0;2.0
+S511,Student 511,30,Psychology,2.5;4.0;3.5
+S512,Student 512,26,Biology,3.5;2.5;3.0
+S513,Student 513,30,Biology,4.0;4.0;4.0;2.0;3.5
+S514,Student 514,25,Biology,4.0;3.5;2.0
+S515,Student 515,20,Biology,3.5;2.5;4.0;2.0
+S516,Student 516,22,Psychology,3.5;2.5
+S517,Student 517,24,Biology,3.5;3.5;2.0;2.5;3.5
+S518,Student 518,19,Computer Science,4.0;2.0
+S519,Student 519,30,Computer Science,3.5;2.0;3.0;2.5;3.0
+S520,Student 520,25,Psychology,2.5;2.0
+S521,Student 521,30,Business,3.5;3.0;2.0;3.0;3.0
+S522,Student 522,25,Biology,3.0;2.0;4.0;4.0;2.0
+S523,Student 523,19,Mathematics,2.5;3.5;4.0
+S524,Student 524,27,Business,2.5;3.0;3.5
+S525,Student 525,28,Mechanical Engineering,3.5;2.5
+S526,Student 526,18,Chemistry,3.5;2.5
+S527,Student 527,21,Business,3.5;2.5;3.0;4.0
+S528,Student 528,30,Computer Science,4.0;2.5;4.0
+S529,Student 529,26,Psychology,2.0;2.5;4.0
+S530,Student 530,28,Physics,2.0;4.0;2.0;4.0;4.0
+S531,Student 531,23,Physics,2.5;4.0;2.0;3.5
+S532,Student 532,23,Computer Science,2.0;4.0;3.5;4.0;3.0
+S533,Student 533,24,Computer Science,2.5;2.0;4.0;3.5
+S534,Student 534,19,Physics,3.5;4.0;3.5
+S535,Student 535,24,Mathematics,2.5;3.0
+S536,Student 536,18,Biology,3.0;2.0;3.0
+S537,Student 537,20,Mechanical Engineering,4.0;4.0;4.0;3.0
+S538,Student 538,22,Mechanical Engineering,3.0;4.0
+S539,Student 539,18,Chemistry,3.0;2.5
+S540,Student 540,28,Mathematics,4.0;4.0;3.0;2.0;3.5
+S541,Student 541,25,Business,4.0;3.0;3.0
+S542,Student 542,28,Physics,2.5;2.0;2.0
+S543,Student 543,18,Mechanical Engineering,2.5;2.5;2.5
+S544,Student 544,24,Mechanical Engineering,3.5;3.5;3.0;4.0
+S545,Student 545,21,Psychology,2.5;3.5;4.0;4.0
+S546,Student 546,20,Mechanical Engineering,4.0;4.0
+S547,Student 547,30,Psychology,3.0;4.0;4.0;2.5
+S548,Student 548,19,Business,2.5;2.5
+S549,Student 549,26,Business,3.5;4.0;2.0;2.0
+S550,Student 550,24,Business,2.5;2.5;2.5;3.5;2.0
+S551,Student 551,22,Psychology,3.0;3.5;4.0
+S552,Student 552,30,Mathematics,4.0;3.0;2.5
+S553,Student 553,25,Mathematics,2.0;3.0;3.0;2.5
+S554,Student 554,24,Mechanical Engineering,2.0;2.5;2.0;2.5
+S555,Student 555,20,Mathematics,3.5;4.0;2.5;3.5;4.0
+S556,Student 556,21,Psychology,3.0;3.5;2.0;4.0;3.0
+S557,Student 557,23,Chemistry,3.0;2.0;2.0
+S558,Student 558,25,Chemistry,4.0;2.5;3.0;3.5;4.0
+S559,Student 559,29,Physics,3.5;2.5
+S560,Student 560,20,Biology,3.5;3.0;4.0;2.0;3.0
+S561,Student 561,21,Mathematics,2.0;2.0;3.5;2.5
+S562,Student 562,28,Biology,4.0;2.0
+S563,Student 563,23,Mechanical Engineering,3.5;3.5;2.5;4.0
+S564,Student 564,27,Mathematics,4.0;3.5;4.0
+S565,Student 565,29,Biology,2.5;2.0
+S566,Student 566,25,Chemistry,4.0;4.0;3.0;3.5;2.0
+S567,Student 567,24,Chemistry,2.0;3.0;2.5;4.0
+S568,Student 568,30,Chemistry,2.0;4.0;4.0
+S569,Student 569,26,Physics,2.0;2.5
+S570,Student 570,30,Psychology,3.5;2.5
+S571,Student 571,22,Computer Science,3.0;4.0
+S572,Student 572,28,Physics,2.0;4.0;2.0;3.0
+S573,Student 573,30,Mechanical Engineering,3.0;2.5
+S574,Student 574,26,Biology,2.5;3.5;4.0;2.0
+S575,Student 575,22,Biology,2.5;4.0;3.5
+S576,Student 576,29,Computer Science,4.0;3.5
+S577,Student 577,26,Physics,2.0;2.5;2.0;3.5
+S578,Student 578,30,Computer Science,2.0;4.0;4.0
+S579,Student 579,22,Computer Science,3.0;2.5;2.5;3.0;3.5
+S580,Student 580,26,Computer Science,4.0;2.5;3.5
+S581,Student 581,26,Chemistry,2.5;3.0;2.5;4.0
+S582,Student 582,22,Psychology,3.5;4.0;2.0
+S583,Student 583,25,Business,4.0;3.5;3.5;4.0
+S584,Student 584,23,Mechanical Engineering,2.5;3.5;3.5;2.0
+S585,Student 585,24,Chemistry,2.0;2.0;2.0
+S586,Student 586,22,Chemistry,2.5;3.5;3.0;3.0;2.0
+S587,Student 587,21,Mechanical Engineering,4.0;3.0;3.5
+S588,Student 588,22,Computer Science,2.5;2.0
+S589,Student 589,26,Chemistry,2.0;2.5;3.0;3.0
+S590,Student 590,27,Physics,2.0;2.5
+S591,Student 591,21,Computer Science,2.5;2.0
+S592,Student 592,24,Biology,3.0;2.0;4.0;3.5;3.0
+S593,Student 593,21,Biology,4.0;2.0;4.0;2.0
+S594,Student 594,24,Computer Science,3.0;3.5;4.0;2.5
+S595,Student 595,27,Biology,2.5;2.5
+S596,Student 596,21,Physics,4.0;4.0;2.0;3.0;2.0
+S597,Student 597,23,Mathematics,4.0;3.5;3.5;3.5
+S598,Student 598,30,Mathematics,2.0;3.0;3.5
+S599,Student 599,19,Business,2.5;2.0;2.5;3.5;3.5
+S600,Student 600,19,Business,2.5;4.0;3.5;4.0;3.5
+S601,Student 601,21,Computer Science,2.5;3.5;4.0;2.5
+S602,Student 602,29,Chemistry,3.0;2.0;3.0;3.5
+S603,Student 603,20,Mechanical Engineering,3.0;3.0;4.0;2.5;3.0
+S604,Student 604,26,Computer Science,4.0;2.0;4.0
+S605,Student 605,30,Mechanical Engineering,2.0;2.5;4.0;4.0
+S606,Student 606,27,Biology,4.0;2.5;2.5;2.5;4.0
+S607,Student 607,27,Chemistry,2.0;2.0;2.0
+S608,Student 608,23,Computer Science,2.0;2.5
+S609,Student 609,28,Biology,3.0;3.0;3.0
+S610,Student 610,20,Biology,3.5;3.5;3.5
+S611,Student 611,29,Chemistry,4.0;4.0;3.5
+S612,Student 612,24,Mechanical Engineering,3.5;2.0;2.0;3.0;2.5
+S613,Student 613,23,Chemistry,2.5;4.0;4.0
+S614,Student 614,19,Biology,3.5;3.5;3.5
+S615,Student 615,21,Business,2.5;4.0;2.0
+S616,Student 616,21,Physics,2.5;3.0;4.0
+S617,Student 617,27,Chemistry,3.5;3.5;2.0;2.5;3.0
+S618,Student 618,29,Physics,4.0;2.0;4.0;2.0;3.5
+S619,Student 619,28,Mathematics,2.0;3.0;4.0;3.5;3.0
+S620,Student 620,24,Business,2.0;4.0;3.0;3.5;2.0
+S621,Student 621,27,Mechanical Engineering,3.0;4.0
+S622,Student 622,23,Physics,4.0;2.0
+S623,Student 623,18,Computer Science,2.5;2.0;2.5;2.0;2.5
+S624,Student 624,22,Mathematics,2.5;3.0;4.0
+S625,Student 625,22,Physics,4.0;3.5;3.5;4.0;3.0
+S626,Student 626,22,Mechanical Engineering,2.5;2.0;2.5;3.5
+S627,Student 627,23,Psychology,2.0;4.0;3.5;2.5
+S628,Student 628,18,Mechanical Engineering,3.0;2.5
+S629,Student 629,22,Mathematics,2.5;4.0;3.0
+S630,Student 630,29,Psychology,2.5;3.0;2.0;4.0;2.5
+S631,Student 631,22,Biology,3.0;3.5;2.0;2.5;2.0
+S632,Student 632,22,Mechanical Engineering,3.5;4.0;3.0
+S633,Student 633,30,Mathematics,3.5;4.0
+S634,Student 634,22,Psychology,4.0;3.0;3.0
+S635,Student 635,20,Mathematics,2.0;2.5;3.5
+S636,Student 636,26,Chemistry,2.5;4.0;3.0;2.0;2.0
+S637,Student 637,18,Chemistry,2.0;3.5;2.5;4.0;3.0
+S638,Student 638,26,Computer Science,2.0;2.0;2.0;3.0
+S639,Student 639,22,Psychology,2.0;3.5
+S640,Student 640,21,Psychology,2.5;4.0;2.5;2.0
+S641,Student 641,20,Computer Science,3.5;3.0;2.5
+S642,Student 642,28,Mechanical Engineering,2.0;2.0
+S643,Student 643,19,Chemistry,3.0;2.5;2.5;4.0;3.0
+S644,Student 644,18,Biology,2.5;2.5;4.0
+S645,Student 645,22,Biology,4.0;4.0;3.5
+S646,Student 646,19,Mechanical Engineering,2.5;3.5;4.0
+S647,Student 647,25,Computer Science,2.5;2.0;3.5;2.5;2.5
+S648,Student 648,29,Psychology,2.5;4.0
+S649,Student 649,18,Mechanical Engineering,2.5;4.0;3.5
+S650,Student 650,29,Business,3.0;4.0;2.5;2.5
+S651,Student 651,28,Business,3.0;2.0
+S652,Student 652,26,Mechanical Engineering,2.0;3.5
+S653,Student 653,21,Mechanical Engineering,3.5;2.0;2.0;3.0
+S654,Student 654,23,Mechanical Engineering,4.0;2.5
+S655,Student 655,21,Physics,4.0;3.5;2.0;2.5;2.5
+S656,Student 656,27,Biology,3.0;2.0;3.5
+S657,Student 657,21,Biology,2.5;2.5;2.5
+S658,Student 658,27,Business,3.0;3.5;2.0;3.0
+S659,Student 659,21,Biology,2.0;3.5;3.0;2.5
+S660,Student 660,18,Physics,3.5;2.0
+S661,Student 661,29,Chemistry,2.0;2.5;3.5;3.5;4.0
+S662,Student 662,18,Psychology,3.5;3.0;3.0;3.0
+S663,Student 663,23,Business,2.0;3.5;2.0;3.0;2.5
+S664,Student 664,23,Mathematics,2.0;3.5;2.5;2.5;3.0
+S665,Student 665,24,Mechanical Engineering,3.0;2.5;3.5;2.0
+S666,Student 666,27,Biology,4.0;3.5;4.0
+S667,Student 667,24,Mechanical Engineering,3.5;4.0;3.0;2.0;2.0
+S668,Student 668,30,Biology,2.5;2.0;3.0;2.0;4.0
+S669,Student 669,21,Mechanical Engineering,4.0;2.5;3.5
+S670,Student 670,20,Computer Science,3.0;4.0;3.5
+S671,Student 671,26,Mathematics,2.0;3.5;2.0;3.0
+S672,Student 672,25,Computer Science,2.0;2.0
+S673,Student 673,29,Computer Science,3.5;4.0;3.0;3.5;2.0
+S674,Student 674,21,Chemistry,3.5;2.5;3.5
+S675,Student 675,24,Computer Science,2.5;2.5;4.0
+S676,Student 676,22,Physics,2.0;2.0;4.0;3.0;2.5
+S677,Student 677,22,Mechanical Engineering,4.0;3.5;3.0;2.0
+S678,Student 678,25,Mathematics,3.0;2.0;3.0
+S679,Student 679,29,Computer Science,3.0;2.0;2.5;4.0;2.5
+S680,Student 680,28,Business,3.0;2.5;3.0
+S681,Student 681,25,Computer Science,2.5;2.5
+S682,Student 682,22,Mathematics,3.5;2.5
+S683,Student 683,29,Biology,2.0;2.5;3.5;3.5;2.5
+S684,Student 684,30,Mathematics,2.5;4.0;3.0
+S685,Student 685,18,Psychology,3.0;3.5;3.5;2.5
+S686,Student 686,18,Computer Science,4.0;2.5;2.5
+S687,Student 687,26,Physics,4.0;4.0;2.0;2.5;2.0
+S688,Student 688,24,Biology,3.0;3.0;4.0;3.5
+S689,Student 689,21,Biology,4.0;4.0;3.5
+S690,Student 690,27,Biology,2.5;2.5;4.0;3.0
+S691,Student 691,27,Biology,3.5;3.0;3.5;3.0;2.0
+S692,Student 692,27,Physics,4.0;2.0
+S693,Student 693,19,Computer Science,2.0;3.0
+S694,Student 694,24,Business,4.0;3.0;3.0;3.0;2.5
+S695,Student 695,30,Psychology,2.0;3.0;2.5
+S696,Student 696,23,Mathematics,4.0;3.0
+S697,Student 697,26,Mechanical Engineering,4.0;3.0;2.0;3.5;3.0
+S698,Student 698,27,Mechanical Engineering,3.5;2.5;4.0
+S699,Student 699,29,Mechanical Engineering,3.0;2.0;3.5;4.0
+S700,Student 700,20,Chemistry,2.0;4.0
+S701,Student 701,18,Psychology,2.5;3.5;3.0;2.0;2.5
+S702,Student 702,30,Psychology,2.5;4.0
+S703,Student 703,26,Mechanical Engineering,2.0;2.0;4.0;3.0;4.0
+S704,Student 704,21,Chemistry,3.0;2.0;3.0;2.0
+S705,Student 705,29,Physics,2.0;2.0;2.0;3.5;3.5
+S706,Student 706,21,Chemistry,3.0;2.5;3.0;4.0
+S707,Student 707,20,Mechanical Engineering,2.5;3.5;2.0;4.0
+S708,Student 708,19,Business,3.5;3.0;3.5;2.0
+S709,Student 709,30,Physics,2.5;2.0
+S710,Student 710,19,Business,4.0;2.5
+S711,Student 711,23,Business,3.0;2.0;3.5;3.5;3.5
+S712,Student 712,29,Mechanical Engineering,3.0;3.0;2.5;2.5
+S713,Student 713,18,Business,3.5;3.5
+S714,Student 714,25,Biology,3.0;2.0;3.5;4.0;4.0
+S715,Student 715,22,Computer Science,2.5;2.0;2.5;3.5
+S716,Student 716,22,Mechanical Engineering,2.0;3.5;4.0
+S717,Student 717,26,Biology,2.5;2.0
+S718,Student 718,20,Psychology,3.5;3.5;3.0;3.0
+S719,Student 719,27,Biology,4.0;3.0;3.5;2.5;2.5
+S720,Student 720,18,Chemistry,2.0;3.5;2.0;2.0
+S721,Student 721,29,Chemistry,2.0;2.5;2.0;3.5;3.5
+S722,Student 722,19,Psychology,3.0;3.5;2.5;3.5;3.0
+S723,Student 723,29,Computer Science,2.5;3.5;3.0
+S724,Student 724,26,Computer Science,2.0;3.5
+S725,Student 725,25,Biology,3.5;4.0;2.0;4.0
+S726,Student 726,24,Mechanical Engineering,2.5;3.0;3.0;2.0;2.0
+S727,Student 727,18,Biology,3.0;3.0;3.0;3.0;3.5
+S728,Student 728,29,Computer Science,2.0;3.0;3.0;3.0;2.0
+S729,Student 729,27,Psychology,3.0;4.0;3.0
+S730,Student 730,30,Biology,4.0;3.5;3.0
+S731,Student 731,21,Business,2.0;3.0;4.0
+S732,Student 732,21,Mathematics,3.5;4.0;2.5;3.0;2.5
+S733,Student 733,22,Mathematics,2.5;2.5;4.0
+S734,Student 734,27,Chemistry,4.0;2.0
+S735,Student 735,27,Psychology,2.0;3.5
+S736,Student 736,21,Psychology,2.0;2.5;2.0
+S737,Student 737,27,Business,2.5;3.0
+S738,Student 738,22,Business,2.0;2.0;3.5;3.0
+S739,Student 739,23,Psychology,2.0;2.5;3.0;4.0
+S740,Student 740,23,Biology,3.5;3.5;2.0;2.5;2.5
+S741,Student 741,21,Mechanical Engineering,4.0;4.0;2.5
+S742,Student 742,18,Mathematics,3.0;2.5;2.5;4.0
+S743,Student 743,23,Mathematics,3.0;2.5;4.0;2.0;3.5
+S744,Student 744,23,Mechanical Engineering,2.0;2.0;2.5;2.5;3.5
+S745,Student 745,26,Mechanical Engineering,2.0;2.5;3.0
+S746,Student 746,28,Biology,2.5;4.0
+S747,Student 747,27,Chemistry,3.5;2.5;4.0;2.5
+S748,Student 748,29,Mechanical Engineering,3.5;2.0;3.5;3.0
+S749,Student 749,20,Business,3.5;3.0;2.0
+S750,Student 750,26,Chemistry,2.0;4.0
+S751,Student 751,28,Mathematics,2.0;3.0;4.0
+S752,Student 752,22,Physics,2.0;2.0;2.0
+S753,Student 753,20,Mathematics,3.5;3.5
+S754,Student 754,27,Business,4.0;2.0;2.5;4.0
+S755,Student 755,24,Mathematics,3.0;3.5;2.0;2.5;3.0
+S756,Student 756,25,Mechanical Engineering,2.0;3.5;3.5;3.0;2.0
+S757,Student 757,26,Business,3.5;3.0;2.5;3.5
+S758,Student 758,27,Mathematics,2.0;3.0;3.5
+S759,Student 759,22,Mechanical Engineering,2.5;4.0;3.0;2.5
+S760,Student 760,27,Business,2.5;2.0;2.5;3.5
+S761,Student 761,30,Mathematics,3.0;3.0
+S762,Student 762,28,Mathematics,3.0;3.5;2.0
+S763,Student 763,26,Chemistry,2.0;2.5
+S764,Student 764,19,Psychology,3.0;3.5;4.0
+S765,Student 765,23,Mathematics,3.5;3.5;3.0;2.0;4.0
+S766,Student 766,25,Mathematics,3.0;4.0;2.5;3.5
+S767,Student 767,20,Biology,4.0;2.0;2.5
+S768,Student 768,23,Mechanical Engineering,4.0;3.5;2.0;3.5;3.5
+S769,Student 769,25,Biology,3.0;3.5;3.0
+S770,Student 770,29,Biology,3.5;2.5;2.5;3.5;3.5
+S771,Student 771,21,Mathematics,4.0;3.0;2.0
+S772,Student 772,25,Mechanical Engineering,2.0;3.5;2.0;2.0
+S773,Student 773,20,Psychology,3.5;3.5
+S774,Student 774,22,Psychology,3.5;3.5;3.0;4.0
+S775,Student 775,29,Computer Science,2.5;4.0;2.0;3.5;4.0
+S776,Student 776,30,Chemistry,4.0;4.0;2.5
+S777,Student 777,27,Mechanical Engineering,2.0;2.0;3.5;2.0
+S778,Student 778,24,Physics,3.5;4.0;2.5
+S779,Student 779,26,Business,2.5;3.5
+S780,Student 780,24,Chemistry,3.5;3.0;4.0;3.5;2.5
+S781,Student 781,25,Mechanical Engineering,4.0;2.5
+S782,Student 782,29,Physics,3.0;4.0;3.0;3.5;4.0
+S783,Student 783,23,Mechanical Engineering,3.0;3.5;3.0;2.5
+S784,Student 784,27,Mathematics,2.0;2.0;2.0;2.5
+S785,Student 785,27,Psychology,4.0;2.5;2.5;3.5;3.0
+S786,Student 786,22,Business,3.5;4.0;3.0;2.5;2.0
+S787,Student 787,18,Computer Science,3.0;3.0;3.0;2.0;2.0
+S788,Student 788,29,Business,4.0;4.0
+S789,Student 789,18,Mechanical Engineering,4.0;4.0;3.5
+S790,Student 790,29,Business,2.0;3.5;3.0
+S791,Student 791,22,Mathematics,3.0;3.0;2.0;3.5;3.0
+S792,Student 792,23,Biology,2.0;3.5
+S793,Student 793,23,Psychology,3.5;2.5;3.0;4.0;2.5
+S794,Student 794,22,Mathematics,4.0;3.0;3.0;4.0;3.0
+S795,Student 795,27,Chemistry,3.5;2.5;2.0
+S796,Student 796,29,Computer Science,2.5;4.0
+S797,Student 797,26,Business,3.5;3.0;4.0
+S798,Student 798,28,Computer Science,2.0;3.5;3.0;3.0;4.0
+S799,Student 799,18,Physics,4.0;3.5;4.0;3.0
+S800,Student 800,27,Biology,2.5;2.0;4.0;2.5;2.5
+S801,Student 801,27,Biology,3.5;4.0;3.0;2.0;3.5
+S802,Student 802,29,Mechanical Engineering,2.5;2.5;2.5;3.5;3.0
+S803,Student 803,21,Computer Science,3.5;3.5;3.5
+S804,Student 804,30,Physics,2.5;3.0
+S805,Student 805,23,Mathematics,2.5;3.5;2.0
+S806,Student 806,22,Business,2.5;2.0
+S807,Student 807,21,Mechanical Engineering,4.0;2.0;2.0;2.0;4.0
+S808,Student 808,24,Mathematics,2.5;3.5;4.0;2.5;2.5
+S809,Student 809,30,Biology,2.5;4.0;4.0
+S810,Student 810,19,Business,3.0;2.5
+S811,Student 811,27,Computer Science,4.0;3.5;2.0;3.5
+S812,Student 812,18,Mechanical Engineering,3.5;3.5;4.0
+S813,Student 813,24,Chemistry,2.5;2.5;2.0;3.0;2.0
+S814,Student 814,19,Psychology,3.0;3.5;2.0
+S815,Student 815,19,Mechanical Engineering,3.0;2.5;3.5;4.0
+S816,Student 816,24,Biology,2.5;2.0;3.5
+S817,Student 817,26,Computer Science,4.0;2.0
+S818,Student 818,30,Psychology,3.5;2.0;3.5
+S819,Student 819,18,Computer Science,4.0;2.5;2.5;4.0
+S820,Student 820,20,Mathematics,3.5;2.0;3.0
+S821,Student 821,20,Physics,3.5;2.5
+S822,Student 822,27,Mathematics,2.5;3.5;3.5;4.0
+S823,Student 823,24,Psychology,4.0;3.5;4.0
+S824,Student 824,25,Chemistry,2.5;3.5;3.0;2.0
+S825,Student 825,27,Physics,3.0;4.0;3.0;4.0;3.0
+S826,Student 826,27,Computer Science,3.5;4.0;2.0;2.0
+S827,Student 827,30,Physics,3.0;4.0;2.5;2.5;2.0
+S828,Student 828,29,Psychology,3.0;2.5;2.5
+S829,Student 829,18,Business,2.0;2.5;2.5;3.5
+S830,Student 830,20,Business,3.5;3.0;2.5;3.5
+S831,Student 831,24,Physics,3.0;4.0;4.0;2.0
+S832,Student 832,18,Computer Science,3.0;3.5;2.5;3.5
+S833,Student 833,30,Physics,2.5;4.0;3.0;4.0
+S834,Student 834,26,Business,2.0;4.0;2.5;3.0
+S835,Student 835,24,Business,3.0;3.5;3.5
+S836,Student 836,30,Psychology,4.0;2.0
+S837,Student 837,18,Computer Science,3.0;2.0;4.0;2.0;3.0
+S838,Student 838,26,Physics,3.5;2.0
+S839,Student 839,19,Computer Science,2.5;2.5;3.0;2.0
+S840,Student 840,20,Mechanical Engineering,4.0;4.0
+S841,Student 841,26,Computer Science,3.0;2.0;3.0;4.0
+S842,Student 842,26,Mechanical Engineering,3.5;2.0;2.0;3.5;2.5
+S843,Student 843,26,Business,2.5;3.5
+S844,Student 844,29,Psychology,4.0;3.0;2.5
+S845,Student 845,26,Mathematics,3.5;2.0;2.5;3.5;3.5
+S846,Student 846,21,Physics,4.0;2.0;2.5;3.5;4.0
+S847,Student 847,21,Mechanical Engineering,2.0;3.5;3.0;3.5
+S848,Student 848,26,Chemistry,3.0;2.0;3.0;4.0;4.0
+S849,Student 849,20,Psychology,2.5;3.5;3.0;2.5
+S850,Student 850,29,Chemistry,2.0;3.0
+S851,Student 851,30,Business,2.5;3.5
+S852,Student 852,18,Chemistry,3.5;3.0;2.0;3.5
+S853,Student 853,21,Computer Science,3.0;3.5;4.0;2.0
+S854,Student 854,19,Biology,2.5;3.5;2.0;2.0;3.0
+S855,Student 855,18,Mathematics,3.0;2.0
+S856,Student 856,26,Mechanical Engineering,4.0;3.0
+S857,Student 857,28,Mechanical Engineering,3.0;2.5;2.0;3.5
+S858,Student 858,22,Biology,3.5;3.5;3.0;3.0
+S859,Student 859,22,Physics,2.5;2.0;3.5;2.5;3.5
+S860,Student 860,26,Psychology,2.0;3.5;4.0
+S861,Student 861,24,Psychology,2.0;2.5
+S862,Student 862,23,Biology,3.5;4.0;3.0;4.0;2.5
+S863,Student 863,28,Biology,3.5;3.5;2.0
+S864,Student 864,21,Computer Science,3.0;2.0;3.0;2.0;3.0
+S865,Student 865,24,Physics,3.0;2.0;4.0
+S866,Student 866,27,Chemistry,4.0;3.0;3.5;2.0
+S867,Student 867,20,Business,3.5;3.0;3.5;3.5
+S868,Student 868,22,Business,2.5;2.5
+S869,Student 869,23,Computer Science,4.0;2.0;2.0
+S870,Student 870,23,Biology,2.5;3.0;3.5;4.0
+S871,Student 871,24,Computer Science,3.5;3.5;2.5;3.5;2.5
+S872,Student 872,29,Mathematics,3.5;2.5
+S873,Student 873,28,Biology,3.5;3.0
+S874,Student 874,18,Computer Science,4.0;2.5;3.0;4.0;2.5
+S875,Student 875,18,Mechanical Engineering,3.5;3.5;2.0;3.5;2.0
+S876,Student 876,28,Mechanical Engineering,3.5;2.5;4.0;3.5;3.0
+S877,Student 877,21,Biology,3.0;3.5;3.0
+S878,Student 878,23,Business,3.5;2.0;2.5;3.5;3.5
+S879,Student 879,18,Biology,4.0;3.5;2.0
+S880,Student 880,22,Physics,3.5;2.5;3.5;3.0;2.5
+S881,Student 881,28,Psychology,4.0;2.0;4.0;4.0
+S882,Student 882,29,Mechanical Engineering,3.0;2.0;3.5;4.0
+S883,Student 883,22,Mechanical Engineering,3.0;2.0;3.0;3.0;2.0
+S884,Student 884,24,Physics,3.5;2.0
+S885,Student 885,30,Physics,4.0;3.5
+S886,Student 886,29,Computer Science,2.5;3.0
+S887,Student 887,24,Mechanical Engineering,3.5;3.5;2.0;3.5
+S888,Student 888,27,Psychology,2.0;2.5;2.0;4.0;2.0
+S889,Student 889,20,Computer Science,4.0;3.5
+S890,Student 890,29,Business,2.0;2.0;4.0
+S891,Student 891,18,Business,2.0;3.5;3.0;2.5;2.0
+S892,Student 892,24,Psychology,3.5;4.0;3.5
+S893,Student 893,28,Computer Science,4.0;2.0
+S894,Student 894,26,Business,3.0;2.5;3.0;3.5;2.0
+S895,Student 895,28,Psychology,3.0;3.0
+S896,Student 896,28,Physics,3.0;2.0;2.0;2.5;3.0
+S897,Student 897,23,Psychology,3.0;4.0;3.5
+S898,Student 898,24,Biology,3.5;2.5;2.0;2.0;3.5
+S899,Student 899,27,Business,3.0;2.0;3.0;4.0;3.5
+S900,Student 900,28,Biology,4.0;2.0
+S901,Student 901,21,Psychology,3.5;3.5
+S902,Student 902,28,Physics,4.0;3.0
+S903,Student 903,21,Biology,3.5;2.0;2.0;2.0;3.0
+S904,Student 904,27,Psychology,4.0;2.5;4.0
+S905,Student 905,22,Mechanical Engineering,2.0;3.0;2.0
+S906,Student 906,23,Psychology,2.5;2.5;2.0;3.5;4.0
+S907,Student 907,19,Mathematics,2.5;3.0
+S908,Student 908,26,Physics,2.5;3.0;4.0
+S909,Student 909,18,Physics,3.0;3.0
+S910,Student 910,28,Psychology,3.0;2.5;3.0;3.0;3.5
+S911,Student 911,24,Computer Science,2.0;2.5;3.5;2.5
+S912,Student 912,19,Biology,3.0;4.0;2.0;3.0;2.5
+S913,Student 913,26,Physics,2.5;2.0;2.0;3.5
+S914,Student 914,18,Mechanical Engineering,4.0;3.0
+S915,Student 915,20,Biology,4.0;2.5;4.0;4.0;3.5
+S916,Student 916,18,Mathematics,4.0;2.5;3.0;2.5;4.0
+S917,Student 917,22,Business,4.0;3.5
+S918,Student 918,28,Mathematics,4.0;4.0;3.5;3.5;3.0
+S919,Student 919,20,Mechanical Engineering,2.5;3.5;3.5;3.5;4.0
+S920,Student 920,25,Computer Science,3.0;3.0;2.0
+S921,Student 921,25,Chemistry,4.0;3.0
+S922,Student 922,27,Biology,3.0;3.0;3.5
+S923,Student 923,20,Computer Science,2.0;2.0
+S924,Student 924,22,Physics,2.5;3.5;3.0;3.0;4.0
+S925,Student 925,20,Biology,3.0;3.5
+S926,Student 926,25,Chemistry,3.0;4.0;2.5;2.5;4.0
+S927,Student 927,18,Psychology,2.5;3.5;2.5
+S928,Student 928,21,Physics,4.0;4.0;3.0
+S929,Student 929,20,Mechanical Engineering,2.5;3.5;4.0;3.0;2.0
+S930,Student 930,30,Mathematics,2.5;3.0;2.5;2.0
+S931,Student 931,26,Mechanical Engineering,4.0;2.5;2.5
+S932,Student 932,23,Chemistry,2.5;2.0;3.5
+S933,Student 933,20,Mathematics,2.5;3.5;2.5;3.5;3.0
+S934,Student 934,29,Psychology,4.0;3.0;2.5;2.0;4.0
+S935,Student 935,22,Mathematics,3.0;4.0
+S936,Student 936,28,Mechanical Engineering,3.5;2.0;4.0;3.0
+S937,Student 937,29,Chemistry,2.0;3.5;2.0;2.0;2.5
+S938,Student 938,24,Mathematics,2.5;2.0;3.0
+S939,Student 939,18,Biology,3.0;3.5;4.0
+S940,Student 940,28,Psychology,3.5;2.0;2.0
+S941,Student 941,28,Psychology,4.0;3.5;3.5;3.0
+S942,Student 942,18,Computer Science,2.5;3.5;3.0
+S943,Student 943,29,Physics,4.0;2.5;2.0
+S944,Student 944,18,Mechanical Engineering,3.5;2.5;2.0
+S945,Student 945,29,Computer Science,3.0;3.0;3.5;2.0
+S946,Student 946,19,Mechanical Engineering,2.5;2.5;3.5
+S947,Student 947,30,Chemistry,2.0;2.0;4.0;3.5
+S948,Student 948,24,Mathematics,4.0;2.0;2.5
+S949,Student 949,28,Computer Science,4.0;3.0;2.0
+S950,Student 950,21,Chemistry,3.5;4.0
+S951,Student 951,19,Mechanical Engineering,2.5;4.0
+S952,Student 952,18,Mathematics,4.0;2.0
+S953,Student 953,20,Mechanical Engineering,3.0;2.5;3.5;4.0
+S954,Student 954,23,Mechanical Engineering,2.5;4.0;3.5;3.0
+S955,Student 955,19,Psychology,2.0;3.0;2.0;3.0
+S956,Student 956,25,Chemistry,3.0;3.0;3.0;3.0
+S957,Student 957,30,Mathematics,3.0;3.5;4.0
+S958,Student 958,25,Chemistry,3.0;3.5
+S959,Student 959,21,Biology,2.5;2.0
+S960,Student 960,27,Psychology,4.0;3.5;4.0;2.0
+S961,Student 961,21,Physics,3.0;3.0;2.5;4.0;3.0
+S962,Student 962,23,Mechanical Engineering,2.0;3.5;2.5;2.5
+S963,Student 963,19,Computer Science,3.0;3.0;3.5;2.5;4.0
+S964,Student 964,23,Business,4.0;3.5;2.5
+S965,Student 965,22,Mathematics,3.0;3.5;4.0
+S966,Student 966,27,Physics,3.0;3.5
+S967,Student 967,24,Business,2.0;4.0;4.0;4.0
+S968,Student 968,18,Biology,2.5;2.5
+S969,Student 969,26,Business,2.0;2.5
+S970,Student 970,20,Mathematics,4.0;3.0;3.0
+S971,Student 971,30,Psychology,2.0;2.0;4.0;3.5
+S972,Student 972,29,Mechanical Engineering,4.0;2.0;2.0
+S973,Student 973,20,Mechanical Engineering,2.0;3.5
+S974,Student 974,21,Physics,4.0;3.0
+S975,Student 975,29,Physics,2.5;2.5;3.5
+S976,Student 976,30,Chemistry,4.0;2.0;2.5;3.0
+S977,Student 977,28,Chemistry,3.0;4.0;3.0;3.0
+S978,Student 978,28,Business,2.0;2.0
+S979,Student 979,29,Physics,2.5;2.0;3.5;2.5;4.0
+S980,Student 980,21,Business,2.5;2.5;2.0
+S981,Student 981,27,Biology,4.0;2.0
+S982,Student 982,27,Business,2.0;3.0;3.0
+S983,Student 983,21,Psychology,3.0;4.0;2.5;2.5;3.0
+S984,Student 984,24,Mathematics,2.5;2.5
+S985,Student 985,28,Biology,4.0;2.5;3.0;2.0;4.0
+S986,Student 986,19,Chemistry,4.0;3.0;3.0
+S987,Student 987,19,Psychology,2.0;2.0
+S988,Student 988,27,Business,2.0;2.5;2.0
+S989,Student 989,30,Mathematics,2.5;3.5;2.5
+S990,Student 990,24,Computer Science,2.5;4.0;2.0;3.5
+S991,Student 991,27,Biology,3.5;2.0;2.5
+S992,Student 992,25,Business,2.5;3.5;2.0;2.5
+S993,Student 993,22,Physics,2.5;2.5;2.0;3.5;2.5
+S994,Student 994,23,Mechanical Engineering,3.5;2.0;2.0;2.0;2.0
+S995,Student 995,28,Computer Science,3.0;2.5;4.0
+S996,Student 996,26,Computer Science,2.5;2.5;3.0;2.0
+S997,Student 997,18,Psychology,2.5;3.5;4.0
+S998,Student 998,18,Physics,4.0;3.5;2.0
+S999,Student 999,28,Mechanical Engineering,4.0;3.5
+S1000,Student 1000,23,Business,4.0;3.0

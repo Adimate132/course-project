@@ -1,0 +1,31 @@
+C3920, Literature, Anwar Hossain, S201; S305; S506; S742; S831; S602; S417; S509
+C3921, Environmental Science, Yasmin Khalid, S323; S478; S694; S581; S210; S453; S392; S675
+C3922, Psychology, Iqra Ahmed, S102; S230; S786; S504; S381; S432; S698; S219
+C3923, Microeconomics, Bilal Shaikh, S345; S780; S913; S607; S219; S498; S307; S806
+C3924, Macroeconomics, Alina Raza, S125; S614; S298; S752; S409; S578; S203; S487
+C3925, Accounting, Aamir Ilyas, S478; S193; S612; S385; S742; S209; S315; S584
+C3926, Philosophy, Hamza Tariq, S502; S387; S106; S493; S607; S832; S709; S391
+C3927, Engineering Ethics, Zahra Shaikh, S431; S680; S112; S308; S451; S598; S320; S711
+C3928, Art History, Maira Khan, S341; S609; S203; S712; S481; S594; S109; S823
+C3929, Sociology, Tariq Azam, S321; S468; S503; S217; S390; S683; S402; S120
+C3930, World History, Fawad Rehman, S290; S107; S572; S398; S615; S237; S513; S406
+C3931, Business Management, Mehwish Ali, S493; S509; S624; S731; S519; S207; S406; S385
+C3932, Civil Engineering, Sameer Anwar, S214; S305; S513; S708; S412; S693; S208; S502
+C3933, Digital Media, Kiran Rashid, S324; S408; S502; S610; S209; S308; S713; S902
+C3934, Marketing, Saad Arif, S243; S578; S634; S109; S532; S619; S208; S417
+C3935, Artificial Intelligence, Zain Malik, S347; S105; S872; S210; S403; S678; S259; S710
+C3936, Machine Learning, Amna Saeed, S452; S819; S294; S514; S302; S789; S453; S106
+C3937, Cloud Computing, Omar Shah, S238; S412; S609; S523; S308; S802; S701; S314
+C3938, Data Science, Sana Rafiq, S321; S593; S234; S402; S581; S603; S129; S709
+C3939, Software Engineering, Laiba Anwar, S207; S416; S503; S290; S712; S801; S318; S609
+C3940, Human Resources, Bilal Qasim, S491; S302; S589; S724; S632; S210; S107; S418
+C3941, Political Science, Asad Iqbal, S104; S593; S712; S320; S405; S801; S267; S389
+C3942, Journalism, Raheel Khan, S294; S509; S712; S401; S238; S613; S409; S178
+C3943, Film Studies, Mariam Javed, S312; S704; S503; S318; S221; S506; S643; S810
+C3944, Astronomy, Nadia Hassan, S103; S591; S432; S290; S508; S723; S317; S641
+C3945, Mathematics, Ahmed Junaid, S430; S209; S591; S813; S401; S264; S315; S501
+C3946, Linear Algebra, Shahid Zaman, S112; S408; S503; S701; S251; S640; S521; S814
+C3947, Cybersecurity, Aisha Malik, S298; S452; S670; S105; S503; S708; S326; S914
+C3948, Geography, Bashir Ahmed, S492; S708; S205; S618; S312; S407; S502; S629
+C3949, Theology, Imran Aziz, S204; S502; S731; S412; S308; S517; S603; S491
+C3950, Public Health, Amara Javed, S371; S216; S504; S711; S408; S602; S317; S801
