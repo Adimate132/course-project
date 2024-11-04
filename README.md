@@ -20,3 +20,4 @@ A simple Java console application for managing student records, allowing users t
 ## Usage
 
 Follow the on-screen prompts to select options.
+Note: Updated courses & students file will be generated in root directory.

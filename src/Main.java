@@ -130,7 +130,6 @@ public class Main {
         }
 
         if (studentExists) { // return to main selection if student exists
-            scnr.close();
             return;
         }
    
@@ -181,7 +180,7 @@ public class Main {
             System.out.println("Student GPA: " + GPA + "\n");
         }
             
-        scnr.close();
+        
     }
 
     // method to read from file of 1k students and create student objects
